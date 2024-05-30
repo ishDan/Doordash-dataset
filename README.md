@@ -55,3 +55,9 @@ The final steps include building predictive models and evaluating their performa
 ## Conclusion
 
 The predictive model developed in this project can effectively estimate the delivery duration of food orders, which can be valuable for optimizing delivery operations and enhancing customer experience. Further improvements and optimizations can be explored to enhance the model's performance and scalability.
+
+## EXTRA
+
+###Dashboard 
+
+A dashboard created using Tableau is available here for visualizing the data:- https://public.tableau.com/app/profile/pronata.datta/viz/DoordashData/Dashboard1?publish=yes
